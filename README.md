@@ -20,12 +20,15 @@ npm install vue-go-top-button --save
 
 ## Usage
 Import statement:
-
 ```
+// Your component code
 import GoTopButton from "vue-go-top-button";
 import "vue-go-top-button/dist/lib/vue-go-top-button.min.css";
-```
 
+export default {
+    components: {GoTopButton}
+}
+```
 On your template paste the `<go-top-button></go-top-button>` html. This will add a simple button with default styles and without animated scroll. By default go-top-button will appear on the right side, 50% top and bottom and without any icons or text. You can then customize its styles and behaviour.
 
 Example of customization:
