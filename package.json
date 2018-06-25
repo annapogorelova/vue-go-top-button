@@ -1,6 +1,6 @@
 {
   "name": "vue-go-top-button",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Vue.js project",
   "author": "anna <anya.pogorelova@gmail.com>",
   "main": "dist/lib/vue-go-top-button.min.js",
@@ -11,16 +11,16 @@
     "build": "rm -rf dist/ && node build/build-lib.js"
   },
   "dependencies": {
-    "babel-plugin-transform-runtime": "^6.23.0",
-    "babel-preset-env": "^1.7.0",
-    "babel-preset-stage-2": "^6.24.1",
-    "babel-register": "^6.26.0",
     "vue": "^2.3.3"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.4",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-stage-2": "^6.24.1",
+    "babel-register": "^6.26.0",
     "connect-history-api-fallback": "^1.3.0",
     "copy-webpack-plugin": "^4.0.1",
     "css-loader": "^0.28.0",
