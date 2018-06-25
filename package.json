@@ -1,6 +1,6 @@
 {
   "name": "vue-go-top-button",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A Vue.js project",
   "author": "anna <anya.pogorelova@gmail.com>",
   "main": "dist/lib/vue-go-top-button.min.js",
@@ -10,6 +10,12 @@
     "prepublishOnly": "npm run build",
     "build": "rm -rf dist/ && node build/build-lib.js"
   },
+  "keywords": [
+    "vue",
+    "go",
+    "top",
+    "button"
+  ],
   "dependencies": {
     "vue": "^2.3.3"
   },
