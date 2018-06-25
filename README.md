@@ -30,12 +30,12 @@ On your template paste the `<go-top-button></go-top-button>` html. This will add
 
 Example of customization:
 ```
-<go-top-button   v-bind:animate="true"
-                 v-bind:speed="50"
-                 v-bind:acceleration="2"
-                 v-bind:scrollDistance="300"
-                 v-bind:classNames="'custom-class'"
-                 v-bind:styles="{
+<go-top-button   :animate="true"
+                 :speed="50"
+                 :acceleration="2"
+                 :scrollDistance="300"
+                 :classNames="'custom-class'"
+                 :styles="{
                     'border-radius': '20px 20px 20px 20px',
                     'right': '5px',
                     'color': 'green',
