@@ -1,6 +1,6 @@
 {
   "name": "vue-go-top-button",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A Vue.js project",
   "author": "anna <anya.pogorelova@gmail.com>",
   "main": "dist/lib/vue-go-top-button.min.js",
