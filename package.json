@@ -1,6 +1,6 @@
 {
   "name": "vue-go-top-button",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A simple customizable go-top-button component for Vue projects.",
   "author": "anna <anya.pogorelova@gmail.com>",
   "main": "dist/lib/vue-go-top-button.min.js",
@@ -27,18 +27,18 @@
     "button"
   ],
   "dependencies": {
-    "vue": "^2.3.3"
+    "vue": "^2.6.9"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",
     "babel-core": "^6.26.3",
-    "babel-loader": "^7.1.4",
+    "babel-loader": "^7.1.5",
     "babel-plugin-transform-runtime": "^6.23.0",
     "babel-preset-env": "^1.7.0",
     "babel-preset-stage-2": "^6.24.1",
     "babel-register": "^6.26.0",
-    "connect-history-api-fallback": "^1.3.0",
-    "copy-webpack-plugin": "^4.0.1",
+    "connect-history-api-fallback": "^1.6.0",
+    "copy-webpack-plugin": "^4.6.0",
     "css-loader": "^0.28.0",
     "cssnano": "^3.10.0",
     "eventsource-polyfill": "^0.9.6",
@@ -46,17 +46,17 @@
     "file-loader": "^0.11.1",
     "html-webpack-plugin": "^2.28.0",
     "optimize-css-assets-webpack-plugin": "^2.0.0",
-    "rimraf": "^2.6.0",
-    "semver": "^5.3.0",
+    "rimraf": "^2.6.3",
+    "semver": "^5.6.0",
     "shelljs": "^0.7.6",
     "vue-loader": "^12.1.0",
     "vue-style-loader": "^3.0.1",
-    "vue-template-compiler": "^2.3.3",
+    "vue-template-compiler": "^2.6.9",
     "webpack": "^2.6.1",
     "webpack-bundle-analyzer": "^2.2.1",
     "webpack-dev-middleware": "^1.10.0",
-    "webpack-hot-middleware": "^2.18.0",
-    "webpack-merge": "^4.1.0"
+    "webpack-hot-middleware": "^2.24.3",
+    "webpack-merge": "^4.2.1"
   },
   "engines": {
     "node": ">= 4.0.0",
